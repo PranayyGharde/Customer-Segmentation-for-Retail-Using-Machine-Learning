@@ -24,4 +24,4 @@ To identify distinct customer segments using transaction data and analyze custom
 - Actionable business insights for targeted marketing strategies
 
 ## Status
-Completed (Academic Project)
+Completed 
